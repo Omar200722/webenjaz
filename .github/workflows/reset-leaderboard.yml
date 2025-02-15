@@ -2,7 +2,7 @@ name: Reset Leaderboard
 
 on:
   schedule:
-    - cron:   '4 6 15 2 6'  # Every Sunday at midnight UTC
+    - cron:   '10 6 15 2 6'  # Every Sunday at midnight UTC
 
 jobs:
   reset:
